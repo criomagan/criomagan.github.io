@@ -20,10 +20,9 @@ categories:
     - alba
 
 tags:
-    - 
+    -
 
 ---
-
 
 Tha Poileas a' sireadh fiosrachaidh an dèidh droch thubaist-rathaid a thachair mu 1:00f Didòmhnaich, air an A87, eadar an Caol agus Baile Mac Ara.
 
