@@ -27,8 +27,6 @@
     - title: Èirinn
       url: /roinn-seorsa/eirinn
       description:
-    - title: Fèisean-pròise
-      url: /roinn-seorsa/feisean-proise
       description:
     - title: Foghlam
       url: /roinn-seorsa/foghlam
@@ -41,6 +39,8 @@
       description:
     - title: Lagh
       url: /roinn-seorsa/lagh
+    - title: LGDT+
+      url: /roinn-seorsa/lgdt
       description:
     - title: Poilitigs
       url: /roinn-seorsa/poilitigs
@@ -51,67 +51,6 @@
     - title: Teicneòlas
       url: /roinn-seorsa/teicneolas
       description:
-
-- title: Briathrachas LGDTCE+
-  url: /briathrachas-lcdt
-  description: Liosta de bhriathrachas Gàidhlig LGDTCE+&#013;A list of Gaelic LGBTQI+ vocabulary
-
-- title: Dualchas
-  url: /dualchas
-  description: Geàrr-chunntas ghoirid de dh'eachdraidh LCDT na h-Alba&#013;A short history of LGBT Scotland
-
-- title: Comhairle
-  url: #
-  description:
-  sublinks:
-    - title: A' tighinn a-mach
-      url: /comhairle/tighinn-a-mach/
-      description:
-    - title: Aithneachadh Gnè
-      url: /comhairle/aithneachadh-gne/
-      description:
-    - title: Buarraidheachd
-      url: /comhairle/buarraidheachd/
-      description:
-    - title: Còirichean & Reachdas
-      url: /comhairle/coirichean-reachdas/
-      description:
-    - title: Dàimhean
-      url: /comhairle/daimhean/
-      description:
-    - title: Eucoirean Gràineil
-      url: /comhairle/eucoirean-graineil/
-      description:
-    - title: Feise
-      url: /comhairle/feise/
-      description:
-    - title: Leth-bhreith
-      url: /comhairle/leth-bhreith/
-      description:
-    - title: Pàrantachd
-      url: /comhairle/parantachd/
-      description:
-    - title: Riochdairean
-      url: /comhairle/riochdairean-pearsanta/
-      description:
-    - title: Slàinte
-      url: /comhairle/slainte/
-      description:
-    - title: Ceanglaichean Feumail
-      url: /comhairle/ceanglaichean-feumail/
-      description:
-
-# - title: Tachartasan
-#  url: /roinn-seorsa/tachartasan
-#  description: Liosta de thachartasan LCDTQ+ a' tachairt air feadh na h-Alba&#013;A list of LGBTQ+ events from around Scotland
-
-- title: Bùth-bhathair
-  url: https://shop.spreadshirt.co.uk/geidhuk
-  description: Stòr Bhathair&#013;Merch Store
-
-- title: Ceanglaichean
-  url: /ceanglaichean
-  description: Liosta de cheanglaichean feumail&#013;A list of useful links
 
 - title: Mar Deidhinn
   url: /mar-deidhinn
