@@ -7,10 +7,10 @@ image: /images/banner.jpg
 <div class="container">
     {% for post in paginator.posts %}
         <div class="row">
-          <div class="col-md-3">
+          <!--<div class="col-md-3">
             <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="index-image"></a>
-          </div>
-          <div class="col-md-9">
+          </div>-->
+          <div class="col-md-12">
             <h5 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
             <!-- If there is an autor link defined in the post's front matter link to that author -->
             {% if post.author %}
