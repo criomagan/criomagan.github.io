@@ -24,7 +24,6 @@ tags:
 
 ---
 
-
 Chaidh ainmeachadh gur e Eairsidh Mac an Aba na Choimiseanair ùr airson Taobh Sear na Gàidhealtachd aig Coimisean na Croitearachd.
 
 Tha seo às dèidh mar a leig Rod MacChoinnich dheth a dhreuchd o chionn ghoirid.
