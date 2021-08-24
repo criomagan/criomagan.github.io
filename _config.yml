@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Geidh.uk
+title: Criomagan.uk
 email: chris@macmhicheil.uk
-description: A' toirt thugaibh na naidheachdan LCDTE as ùire le fòcas àraidh air naidheachdan Albannach
+description: A' toirt thugaibh na criomgan naidheachd as ùire bho air feadh na h-Alba
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://geidh.uk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://criomagan.uk" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:day/:title/
 
-twitter-username: GeidhUK
-instagram-username: GeidhUK
+twitter-username: criomagan_
+instagram-username: criomagan
 
 # Pagination number
 plugins: [jekyll-paginate]
@@ -30,7 +30,7 @@ paginate_path: /duilleag-:num/
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
@@ -47,8 +47,7 @@ plugins:
 #   - vendor/ruby/
 
 # Sets the color of the header and page links
-featured-color: "#7e3c8d"
+featured-color: "#56c1bb"
 
 # Separator to mark end of post excerpt
 excerpt_separator: <!--more-->
-
