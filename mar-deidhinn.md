@@ -2,7 +2,6 @@
 layout: page
 title: Mar Deidhinn
 permalink: /mar-deidhinn/
-image: /images/mar-deidhinn.jpg
 ---
 
 --- Ri sgrìobhadh ---
