@@ -5,16 +5,7 @@ permalink: /mar-deidhinn/
 image: /images/mar-deidhinn.jpg
 ---
 
-Bidh Geidh.uk **[^1]** a’ toirt thugaibh sa Ghàidhlig na naidheachdan LGBT+ as ùire le fòcas àraidh air naidheachd Albannach.
-
-Chaidh a stèidheachadh ann an 2008 mar Naidheachdan Pinc le Crìstean MacMhìcheil nuair a bha e na oileanach aig Sabhal Mòr Ostaig.
-
-‘S e prìomh-amasan Geidh.uk a bhith:
-
-* a’ tabhann seirbheis naidheachd do Ghàidheil LCDTE+;
-* a’ brosnachadh cultar, dualchas agus ealain LCDTE+ taobh a-staigh coimhearsnachd na Gàidhlig;
-* a’ brosnachadh  co-ionnanachd agus iomadachd;
-* a’ lughdachadh iomallachd sa choimhearsnachd LCDTE+ Gàidhealach le bhith a’ cruthachadh cheanglaichean brìoghmhor agus luachmhor.
+--- Ri sgrìobhadh ---
 
 #### Mu dheidhinn Crìstean MacMhìcheil
 
@@ -35,9 +26,3 @@ Tha mi nam glasraichear-cruaidh (vegan).
 ### Cuir post-d thugainn
 
 'S e Twitter no Instagram an dòigh as fheàrr airson brath a chur thugainn ach mura h-eil thu airson an cleachdadh, 's urrainn dhut post-d a chur thugainn le bhith a' lìonadh [an fhoirm seo]({{ site.baseurl }}/cuir-fios).
-
-{% include divider.html %}
-
-### Nòtaichean
-
-[^1]: Nòta mun ainm - 'S e an adhbhar nach bi sinn a' cleachdadh Gèidh.uk ann an ainm an làraich nach eil URLan le stràcan nam broinn air an taisbeanadh gu ceart anns a h-uile àite. Ma choimheadas tu air an ìomhaigh gu h-ìosal chì thu gu bheil _Gèidh.uk_ air a thaisbeanadh mar _xn--gidh-50a.uk_ air sgàth 's gu bheil stràc air an e. ![Nòta mun ainm](/images/nota-mun-ainm.jpg){: .post-image }
