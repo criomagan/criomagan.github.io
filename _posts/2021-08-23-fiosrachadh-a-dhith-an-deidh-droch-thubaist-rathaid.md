@@ -2,7 +2,7 @@
 
 layout: post
 
-date: 2021-08-23
+date: 2021-08-23 15:14
 
 title: Fiosrachadh a dhìth an dèidh droch thubaist-rathaid
 
@@ -21,6 +21,10 @@ categories:
 
 tags:
     -
+
+instagram: https://www.instagram.com/p/CS630_0ibYI/
+
+twitter: https://twitter.com/criomagan_/status/1429809227430772742
 
 ---
 

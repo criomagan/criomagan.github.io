@@ -2,7 +2,7 @@
 
 layout: post
 
-date: 2021-08-24
+date: 2021-08-24 17:43
 
 title: Bealach na Bà gu bhith dùinte rè ùine
 
@@ -21,6 +21,10 @@ categories:
 
 tags:
     -
+
+instagram: https://www.instagram.com/p/CS9tzGqCMfw/
+
+twitter: https://twitter.com/criomagan_/status/1430209193756266509
 
 ---
 

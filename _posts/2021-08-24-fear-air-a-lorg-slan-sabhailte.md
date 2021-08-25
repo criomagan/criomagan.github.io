@@ -2,7 +2,7 @@
 
 layout: post
 
-date: 2021-08-24
+date: 2021-08-24 15:04
 
 title: Fear air a lorg slàn sàbhailte
 
@@ -21,6 +21,10 @@ categories:
 
 tags:
     -
+
+instagram: https://www.instagram.com/p/CS9bfqsivex/
+
+twitter: https://twitter.com/criomagan_/status/1430169256373760020
 
 ---
 

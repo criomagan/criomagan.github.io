@@ -2,7 +2,7 @@
 
 layout: post
 
-date: 2021-08-23
+date: 2021-08-23 16:18
 
 title: Coimiseanair ùr do Choimisean na Croitearachd
 
@@ -21,6 +21,10 @@ categories:
 
 tags:
     -
+
+instagram: https://www.instagram.com/p/CS6_C41ChuA/
+
+twitter: https://twitter.com/criomagan_/status/1429825256311644163
 
 ---
 

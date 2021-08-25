@@ -2,7 +2,7 @@
 
 layout: post
 
-date: 2021-08-23
+date: 2021-08-23 17:03
 
 title: Fear à Inbhir Nis a dhìth
 
@@ -21,6 +21,10 @@ categories:
 
 tags:
     -
+
+instagram: https://www.instagram.com/p/CS7EOp0ii4z/
+
+twitter: https://twitter.com/criomagan_/status/1429836629074718721
 
 ---
 

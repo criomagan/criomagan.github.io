@@ -2,7 +2,7 @@
 
 layout: post
 
-date: 2021-08-24
+date: 2021-08-24 19:20
 
 title: Poileas ag iarraidh fiosrachaidh mu thubaist bhàsmhor
 
@@ -21,6 +21,10 @@ categories:
 
 tags:
     -
+
+instagram: https://www.instagram.com/p/CS94ddcsz3d/
+
+twitter: https://twitter.com/criomagan_/status/1430233453652492291
 
 ---
 
