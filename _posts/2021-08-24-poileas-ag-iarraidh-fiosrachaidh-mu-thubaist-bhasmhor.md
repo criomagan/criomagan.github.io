@@ -6,7 +6,7 @@ date: 2021-08-24 19:20
 
 title: Poileas ag iarraidh fiosrachaidh mu thubaist bhàsmhor
 
-image: /images/
+image:
 
 image-caption:
 
