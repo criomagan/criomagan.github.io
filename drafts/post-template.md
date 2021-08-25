@@ -2,9 +2,9 @@
 
 layout: post
 
-date: 
+date:
 
-title: 
+title:
 
 image: /images/
 
@@ -17,10 +17,14 @@ author: Crìstean MacMhìcheil
 comments: true
 
 categories:
-    - 
+    -
 
 tags:
-    - 
+    -
+
+instagram:
+
+twitter: 
 
 ---
 
