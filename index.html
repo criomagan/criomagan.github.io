@@ -10,7 +10,7 @@ image: /images/banner.jpg
           <!--<div class="col-md-3">
             <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="index-image"></a>
           </div>-->
-          <div class="col-md-12">
+          <div class="col-md-6">
             <h5 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
             <!-- If there is an autor link defined in the post's front matter link to that author -->
             {% if post.author %}
@@ -21,6 +21,9 @@ image: /images/banner.jpg
             {% endif %}
             <!-- Insert the post excerpt here -->
             {{ post.excerpt }}
+          </div>
+          <div class="col-md-3">
+            {% include categories.html %}
           </div>
         </div>
         <div class="section-divider"></div>
