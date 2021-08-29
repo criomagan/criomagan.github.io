@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Criomagan.uk
 email: chris@macmhicheil.uk
-description: A' toirt thugaibh na criomgan naidheachd as ùire bho air feadh na h-Alba
+description: A' toirt thugaibh na criomgan naidheachd as ùire
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://criomagan.uk" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:day/:title/
