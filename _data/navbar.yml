@@ -19,49 +19,49 @@
       url: /roinn-seorsa/eirinn
       description:
 
-  - title: Blog
-    url: /roinn-seorsa/blog
-    description: Blog
+- title: Blog
+  url: /roinn-seorsa/blog
+  description: Blog
 
-  - title: Creideamh
-    url: /roinn-seorsa/creideamh
-    description:
+- title: Creideamh
+  url: /roinn-seorsa/creideamh
+  description:
 
-  - title: Cùltar
-    url: /roinn-seorsa/cultar
-    description:
+- title: Cùltar
+  url: /roinn-seorsa/cultar
+  description:
 
-  - title: Foghlam
-    url: /roinn-seorsa/foghlam
-    description:
+- title: Foghlam
+  url: /roinn-seorsa/foghlam
+  description:
 
-  - title: Gàidhlig
-    url: /roinn-seorsa/gaidhlig
-    description:
+- title: Gàidhlig
+  url: /roinn-seorsa/gaidhlig
+  description:
 
-  - title: Gnìomhachas
-    url: /roinn-seorsa/gniomhachas
-    description:
+- title: Gnìomhachas
+  url: /roinn-seorsa/gniomhachas
+  description:
 
-  - title: Lagh
-    url: /roinn-seorsa/lagh
-    description:
+- title: Lagh
+  url: /roinn-seorsa/lagh
+  description:
 
-  - title: LGDT+
-    url: /roinn-seorsa/lgdt
-    description:
+- title: LGDT+
+  url: /roinn-seorsa/lgdt
+  description:
 
-  - title: Poilitigs
-    url: /roinn-seorsa/poilitigs
-    description:
+- title: Poilitigs
+  url: /roinn-seorsa/poilitigs
+  description:
 
-  - title: Slàinte
-    url: /roinn-seorsa/slainte
-    description:
+- title: Slàinte
+  url: /roinn-seorsa/slainte
+  description:
 
-  - title: Teicneòlas
-    url: /roinn-seorsa/teicneolas
-    description:
+- title: Teicneòlas
+  url: /roinn-seorsa/teicneolas
+  description:
 
 - title: Ceanglaichean
   url: #
