@@ -31,8 +31,8 @@ twitter: https://twitter.com/criomagan_/status/1429825256311644163
 
 Chaidh ainmeachadh gur e Eairsidh Mac an Aba na Choimiseanair ùr airson Taobh Sear na Gàidhealtachd aig Coimisean na Croitearachd.
 
+<!--more-->
+
 Tha seo às dèidh mar a leig Rod MacChoinnich dheth a dhreuchd o chionn ghoirid.
 
 Tha Mgr. Mac an Aba air a bhith ag obair airson a' Choimisean agus Roinn an Àiteachais fad 33 bliadhna agus e a-nis ag obair làn-ùine air a' chroit aige ann an Siorrachd Rois.
-
-<!--more-->
