@@ -63,15 +63,19 @@
   url: #
   description:
   sublinks:
-    - title: An t-Ubhal-ghort
+    - title: Aimsir.info
       url: https://atug.uk/
-      description: A' toirt thugaibh na naidheachdan teicneòlais as ùire
-    - title: Geidh.uk
-      url: https://geidh.uk/
-      description: A' toirt thugaibh na naidheachdan LGDT+ as ùire
+      description: A' toirt thugaibh am fiosrachadh as ùire mun aimsir
     - title: Blog
       url: https://macmhicheil.uk/blog
       description: Blog
+    - title: Geidh.uk
+      url: https://geidh.uk/
+      description: A' toirt thugaibh na naidheachdan LGDT+ as ùire
+    - title: An t-Ubhal-ghort
+      url: https://atug.uk/
+      description: A' toirt thugaibh na naidheachdan teicneòlais as ùire
+
 
 - title: Mar Deidhinn
   url: /mar-deidhinn
