@@ -4,7 +4,7 @@ title: Mar Deidhinn
 permalink: /mar-deidhinn/
 ---
 
---- Ri sgrìobhadh ---
+A' toirt thugaibh na criomgan naidheachd as ùire.
 
 #### Mu dheidhinn Crìstean MacMhìcheil
 
