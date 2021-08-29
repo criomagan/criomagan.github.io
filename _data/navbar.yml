@@ -19,10 +19,6 @@
       url: /roinn-seorsa/eirinn
       description:
 
-- title: Blog
-  url: /roinn-seorsa/blog
-  description: Blog
-
 - title: Creideamh
   url: /roinn-seorsa/creideamh
   description:
@@ -73,6 +69,9 @@
     - title: Geidh.uk
       url: https://geidh.uk/
       description: A' toirt thugaibh na naidheachdan LGDT+ as ùire
+    - title: Blog
+      url: https://macmhicheil.uk/blog
+      description: Blog
 
 - title: Mar Deidhinn
   url: /mar-deidhinn
