@@ -8,9 +8,7 @@ A' toirt thugaibh na criomgan naidheachd as ùire.
 
 ### Làraichean-lìn eile againn
 
-[Geidh.uk](https://geidh.uk) - A' toirt thugaibh na naidheachdan LGDT+ as ùire.
-
-[An t-Ubhal-ghort](https://atug.uk) - A' toirt thugaibh nan naidheachdan teicneòlais as ùire.
+{% include links.html %}
 
 ### Lean sinn
 
