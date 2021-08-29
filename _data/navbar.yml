@@ -52,6 +52,17 @@
       url: /roinn-seorsa/teicneolas
       description:
 
+- title: Ceanglaichean
+  url: #
+  description:
+  sublinks:
+    - title: An t-Ubhal-ghort
+      url: https://atug.uk/
+      description: A' toirt thugaibh na naidheachdan teicneòlais as ùire
+    - title: Geidh.uk
+      url: https://geidh.uk/
+      description: A' toirt thugaibh na naidheachdan LGDT+ as ùire
+
 - title: Mar Deidhinn
   url: /mar-deidhinn
   description: Mar deidhinn&#013;About Us
