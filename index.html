@@ -22,12 +22,12 @@ image: /images/banner.jpg
             <!-- Insert the post excerpt here -->
             {{ post.excerpt }}
           </div>
-          <div class="col-md-3">
-            {% include categories.html %}
-          </div>
         </div>
         <div class="section-divider"></div>
     {% endfor %}
+    <div class="col-md-3">
+      {% include categories.html %}
+    </div>
   <!-- Pagination -->
   {% include pagination.html %}
 </div>
