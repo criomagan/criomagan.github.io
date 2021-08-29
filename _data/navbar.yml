@@ -2,7 +2,7 @@
   url: /
   description: Dachaigh&#013;Home
 
-- title: Naidheachdan
+- title: Sgìrean
   url: #
   description:
   sublinks:
@@ -15,42 +15,52 @@
     - title: An Roinn-Eòrpa
       url: /roinn-seorsa/an-roinn-eorpa
       description:
-    - title: Blog
-      url: /roinn-seorsa/blog
-      description: Blog
-    - title: Creideamh
-      url: /roinn-seorsa/creideamh
-      description:
-    - title: Cùltar
-      url: /roinn-seorsa/cultar
-      description:
     - title: Èirinn
       url: /roinn-seorsa/eirinn
       description:
-      description:
-    - title: Foghlam
-      url: /roinn-seorsa/foghlam
-      description:
-    - title: Gàidhlig
-      url: /roinn-seorsa/gaidhlig
-      description:
-    - title: Gnìomhachas
-      url: /roinn-seorsa/gniomhachas
-      description:
-    - title: Lagh
-      url: /roinn-seorsa/lagh
-    - title: LGDT+
-      url: /roinn-seorsa/lgdt
-      description:
-    - title: Poilitigs
-      url: /roinn-seorsa/poilitigs
-      description:
-    - title: Slàinte
-      url: /roinn-seorsa/slainte
-      description:
-    - title: Teicneòlas
-      url: /roinn-seorsa/teicneolas
-      description:
+
+  - title: Blog
+    url: /roinn-seorsa/blog
+    description: Blog
+
+  - title: Creideamh
+    url: /roinn-seorsa/creideamh
+    description:
+
+  - title: Cùltar
+    url: /roinn-seorsa/cultar
+    description:
+
+  - title: Foghlam
+    url: /roinn-seorsa/foghlam
+    description:
+
+  - title: Gàidhlig
+    url: /roinn-seorsa/gaidhlig
+    description:
+
+  - title: Gnìomhachas
+    url: /roinn-seorsa/gniomhachas
+    description:
+
+  - title: Lagh
+    url: /roinn-seorsa/lagh
+
+  - title: LGDT+
+    url: /roinn-seorsa/lgdt
+    description:
+
+  - title: Poilitigs
+    url: /roinn-seorsa/poilitigs
+    description:
+
+  - title: Slàinte
+    url: /roinn-seorsa/slainte
+    description:
+
+  - title: Teicneòlas
+    url: /roinn-seorsa/teicneolas
+    description:
 
 - title: Ceanglaichean
   url: #
