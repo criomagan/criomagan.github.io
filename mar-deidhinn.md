@@ -8,7 +8,7 @@ A' toirt thugaibh na criomgan naidheachd as ùire.
 
 ### Làraichean-lìn eile againn
 
-{% include links.html %}
+{% include network.html %}
 
 ### Lean sinn
 
