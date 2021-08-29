@@ -18,6 +18,7 @@ comments: true
 
 categories:
     - alba
+    - gniomhachas
 
 tags:
     -
