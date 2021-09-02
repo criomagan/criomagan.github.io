@@ -35,6 +35,15 @@ layout: default
         {{ content }}
       </div>
     </div>
+    <div class="row">
+      <p>
+        <i class=""></i> {% page.author %}
+        <i class="fa fa-tag"></i> {% for category in page.categories %}
+          <a class="post-category-link" href="{{ site.baseurl }}/roinn-seorsa/{{ category }}">
+            #{{ category }}
+          </a>
+      {% endfor %} {{ page.date | date: "%Y-%m-%d" }}
+    </div>
     <div class="section-divider"></div>
       <!-- Display Disqus Comments Section -->
       {% include comments.html %}
