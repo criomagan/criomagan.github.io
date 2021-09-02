@@ -1,86 +1,19 @@
 - title: <i class="fas fa-home"></i>
-  url: /
-  description: Dachaigh&#013;Home
+  url: /mu-ar-deidhinn
+  description: Mu ar deidhinn
 
-- title: Sgìrean
-  url: #
-  description:
-  sublinks:
-    - title: Alba
-      url: /roinn-seorsa/alba
-      description:
-    - title: An Rìoghachd Aonaichte
-      url: /roinn-seorsa/an-rioghachd-aonaichte
-      description:
-    - title: An Roinn-Eòrpa
-      url: /roinn-seorsa/an-roinn-eorpa
-      description:
-    - title: Èirinn
-      url: /roinn-seorsa/eirinn
-      description:
+- title: <i class="fas fa-envelope"></i>
+  url: /cuir-fios
+  description: Cuir fios thugainn
 
-- title: Creideamh
-  url: /roinn-seorsa/creideamh
-  description:
+- title: <i class="fa fa-feed"></i>
+  url: /feed
+  description: Inbhir RSS
 
-- title: Cùltar
-  url: /roinn-seorsa/cultar
-  description:
+- title: <i class="fab fa-instagram"></i>
+  url: https://www.instagram.com/criomagan
+  description: Instagram
 
-- title: Foghlam
-  url: /roinn-seorsa/foghlam
-  description:
-
-- title: Gàidhlig
-  url: /roinn-seorsa/gaidhlig
-  description:
-
-- title: Gnìomhachas
-  url: /roinn-seorsa/gniomhachas
-  description:
-
-- title: Lagh
-  url: /roinn-seorsa/lagh
-  description:
-
-- title: LGDT+
-  url: /roinn-seorsa/lgdt
-  description:
-
-- title: Poilitigs
-  url: /roinn-seorsa/poilitigs
-  description:
-
-- title: Slàinte
-  url: /roinn-seorsa/slainte
-  description:
-
-- title: Teicneòlas
-  url: /roinn-seorsa/teicneolas
-  description:
-
-- title: Ceanglaichean
-  url: #
-  description:
-  sublinks:
-    - title: Aimsir.info
-      url: https://atug.uk/
-      description: A' toirt thugaibh am fiosrachadh as ùire mun aimsir
-    - title: Blog
-      url: https://macmhicheil.uk/blog
-      description: Blog
-    - title: Geidh.uk
-      url: https://geidh.uk/
-      description: A' toirt thugaibh na naidheachdan LGDT+ as ùire
-    - title: An t-Ubhal-ghort
-      url: https://atug.uk/
-      description: A' toirt thugaibh na naidheachdan teicneòlais as ùire
-
-
-- title: Mar Deidhinn
-  url: /mar-deidhinn
-  description: Mar deidhinn&#013;About Us
-
-- title: Lorg
-  url: /lorg
-  description: Lorg sna postaichean&#013;Search the posts
+- title: <i class="fab fa-twitter"></i>
+  url: https://www.twitter.com/criomagan_
+  description: Twitter
