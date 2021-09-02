@@ -36,8 +36,8 @@ layout: default
         </span></p>
       </div>
       <div class="col-md-5">
-        <i class="fa fa-tag"></i> {% for category in page.categories %}
-          <p style="display: inline-block"><a class="post-category-link" href="{{ site.baseurl }}/roinn-seorsa/{{ category }}">
+        <p style="display: inline-block"><i class="fa fa-tag"></i> {% for category in page.categories %}
+          <a class="post-category-link" href="{{ site.baseurl }}/roinn-seorsa/{{ category }}">
             #{{ category }}
           </a></p>
         {% endfor %}
