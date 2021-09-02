@@ -16,20 +16,6 @@ layout: default
         {% else %}
           <img src="{{ page.image }}" class="post-image">
         {% endif %}
-        <p><strong>Foillsichte</strong></p>
-        <p class="post-date text-muted">
-          {{ page.date | date: "%Y-%m-%d" }}
-        </p>
-        <p><strong><i class="fa fa-tag"></i> Roinnean-seòrsa</strong></p>
-        <ul>
-          {% for category in page.categories %}
-            <li>
-              <a class="post-category-link" href="{{ site.baseurl }}/roinn-seorsa/{{ category }}">
-                #{{ category }}
-              </a>
-            </li>
-          {% endfor %}
-        </ul>
       </div>
       <div class="col-md-9">
         {{ content }}
