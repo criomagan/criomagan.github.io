@@ -6,7 +6,7 @@ date: 2021-08-24 17:43
 
 title: Bealach na Bà gu bhith dùinte rè ùine
 
-image: /images/
+image: /images/2021-08-24-bealach-na-ba-gu-bhith-duinte-re-uine.jpg
 
 image-caption:
 
