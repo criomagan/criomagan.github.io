@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mar Deidhinn
-permalink: /mar-deidhinn/
+permalink: /mu-ar-deidhinn/
 ---
 
 A' toirt thugaibh na criomgan naidheachd as ùire.
