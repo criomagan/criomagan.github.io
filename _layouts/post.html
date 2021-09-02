@@ -3,29 +3,34 @@ layout: default
 ---
 <div class="container">
   <div class="row">
-    <div class="col-10 offset-1">
+  <div class="post">
+    <h3 class="post-title">{{ page.title }}</h3>
+    <span class="post-date text-muted">
+      {{ page.date | date: "%Y-%m-%d" }}
+    </span>
+    <span class="post-category text-muted"><i class="fa fa-tag"></i>
+      {% for category in page.categories %}
+        <a class="post-category-link" href="{{ site.baseurl }}/roinn-seorsa/{{ category }}">
+          #{{ category }}
+        </a>
+      {% endfor %}
+    </span>
+    <div class="col-md-2"
+      {% if page.image-caption %}
+      <figure>
+        <img src="{{ page.image }}" class="post-image">
+        <figcaption class="text-muted" style="text-align: right; margin-top: -25px"><small><a href="{{ page.image-licence }}">{{ page.image-caption }}</a></small></figcaption>
+      </figure>
+    {% else %}
+      <img src="{{ page.image }}" class="post-image">
+    {% endif %}
+    </div>
+    <div class="col-md-8">
 
       <!-- Post Content -->
-      <div class="post">
-        <h3 class="post-title">{{ page.title }}</h3>
-        <span class="post-date text-muted">
-          {{ page.date | date: "%Y-%m-%d" }}
-        </span>
-        <span class="post-category text-muted"><i class="fa fa-tag"></i>
-          {% for category in page.categories %}
-            <a class="post-category-link" href="{{ site.baseurl }}/roinn-seorsa/{{ category }}">
-              #{{ category }}
-            </a>
-          {% endfor %}
-        </span>
-        {% if page.image-caption %}
-        <figure>
-          <img src="{{ page.image }}" class="post-image">
-          <figcaption class="text-muted" style="text-align: right; margin-top: -25px"><small><a href="{{ page.image-licence }}">{{ page.image-caption }}</a></small></figcaption>
-        </figure>
-        {% else %}
-          <img src="{{ page.image }}" class="post-image">
-        {% endif %}
+
+
+
         {{ content }}
       </div>
 
