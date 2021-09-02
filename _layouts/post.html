@@ -19,7 +19,8 @@ layout: default
         <p class="post-date text-muted">
           {{ page.date | date: "%Y-%m-%d" }}
         </p>
-        <ul class="post-category text-muted"><i class="fa fa-tag"></i>
+        <i class="fa fa-tag"></i>
+        <ul>
           {% for category in page.categories %}
             <li>
               <a class="post-category-link" href="{{ site.baseurl }}/roinn-seorsa/{{ category }}">
