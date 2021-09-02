@@ -1,6 +1,6 @@
 {
-    "name": "GeidhUK",
-    "short_name": "GeidhUK",
+    "name": "Criomagan",
+    "short_name": "Criomagan",
     "icons": [
         {
             "src": "/android-chrome-36x36.png",
@@ -38,8 +38,8 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#7e3c8d",
-    "background_color": "#7e3c8d",
-    "start_url": "https://geidh.uk/",
+    "theme_color": "#56c1bb",
+    "background_color": "#56c1bb",
+    "start_url": "https://criomagan.uk/",
     "display": "standalone"
 }
