@@ -6,7 +6,7 @@ date: 2021-08-23 15:14
 
 title: Fiosrachadh a dhìth an dèidh droch thubaist-rathaid
 
-image: /images/
+image: /images/2021-08-23-fiosrachadh-a-dhith-an-deidh-droch-thubaist-rathaid.jpg
 
 image-caption:
 
