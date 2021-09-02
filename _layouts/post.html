@@ -16,10 +16,11 @@ layout: default
         {% else %}
           <img src="{{ page.image }}" class="post-image">
         {% endif %}
+        <p><strong>Foillsichte</strong></p>
         <p class="post-date text-muted">
           {{ page.date | date: "%Y-%m-%d" }}
         </p>
-        <i class="fa fa-tag"></i>
+        <p><strong><i class="fa fa-tag"></i> Roinnean-seòrsa</strong></p>
         <ul>
           {% for category in page.categories %}
             <li>
