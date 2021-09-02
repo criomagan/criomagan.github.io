@@ -5,19 +5,9 @@ layout: default
   <div class="post">
     <div class="row">
       <h3 class="post-title">{{ page.title }}</h3>
-      <span class="post-date text-muted">
-        {{ page.date | date: "%Y-%m-%d" }}
-      </span>
-      <span class="post-category text-muted"><i class="fa fa-tag"></i>
-        {% for category in page.categories %}
-          <a class="post-category-link" href="{{ site.baseurl }}/roinn-seorsa/{{ category }}">
-        #{{ category }}
-          </a>
-        {% endfor %}
-      </span>
     </div>
     <div class="row">
-      <div class="col-md-2">
+      <div class="col-md-3">
         {% if page.image-caption %}
         <figure>
           <img src="{{ page.image }}" class="post-image">
@@ -26,8 +16,20 @@ layout: default
         {% else %}
           <img src="{{ page.image }}" class="post-image">
         {% endif %}
+        <p class="post-date text-muted">
+          {{ page.date | date: "%Y-%m-%d" }}
+        </p>
+        <ul class="post-category text-muted"><i class="fa fa-tag"></i>
+          {% for category in page.categories %}
+            <li>
+              <a class="post-category-link" href="{{ site.baseurl }}/roinn-seorsa/{{ category }}">
+                #{{ category }}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
       </div>
-      <div class="col-md-10">
+      <div class="col-md-9">
         {{ content }}
       </div>
     </div>
