@@ -37,9 +37,9 @@ layout: default
       </div>
       <div class="col-md-5">
         <i class="fa fa-tag"></i> {% for category in page.categories %}
-          <span><a class="post-category-link" href="{{ site.baseurl }}/roinn-seorsa/{{ category }}"></span>
+          <p style="display: inline-block"><a class="post-category-link" href="{{ site.baseurl }}/roinn-seorsa/{{ category }}">
             #{{ category }}
-          </a>
+          </a></p>
         {% endfor %}
       </div>
     </div>
