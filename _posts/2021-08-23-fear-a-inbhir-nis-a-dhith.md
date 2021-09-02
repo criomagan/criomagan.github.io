@@ -6,7 +6,7 @@ date: 2021-08-23 17:03
 
 title: Fear à Inbhir Nis a dhìth
 
-image: /images/
+image: /images/2021-08-23-fear-a-inbhir-nis-a-dhith.jpg
 
 image-caption:
 
