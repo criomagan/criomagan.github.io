@@ -22,24 +22,24 @@ layout: default
       </div>
     </div>
     <div class="row">
-      <div class="col-md-3">
+      <div class="col-md-2">
         <i class="fas fa-user"></i> {{ page.author }}
       </div>
-      <div class="col-md-3">
+      <div class="col-md-2">
         <i class="fas fa-clock"></i> {{ page.date | date: "%Y-%m-%d" }}
       </div>
-      <div class="col-md-3">
+      <div class="col-md-2">
+        <i class="fas fa-book-reader"></i> <span class="reading-time" title="Estimated read time">
+        {% assign words = include.content | strip_html | number_of_words %}
+        {{ words | divided_by: 180 | plus: 1 }} mion.
+        </span>
+      </div>
+      <div class="col-md-6">
         <i class="fa fa-tag"></i> {% for category in page.categories %}
           <a class="post-category-link" href="{{ site.baseurl }}/roinn-seorsa/{{ category }}">
             #{{ category }}
           </a>
         {% endfor %}
-      </div>
-      <div class="col-md-3">
-        <i class="fas fa-book-reader"></i> <span class="reading-time" title="Estimated read time">
-        {% assign words = include.content | strip_html | number_of_words %}
-        {{ words | divided_by: 180 | plus: 1 }} mion.
-        </span>
       </div>
     </div>
     <div class="section-divider"></div>
