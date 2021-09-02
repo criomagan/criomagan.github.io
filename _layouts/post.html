@@ -42,7 +42,7 @@ layout: default
           <a class="post-category-link" href="{{ site.baseurl }}/roinn-seorsa/{{ category }}">
             #{{ category }}
           </a>
-      {% endfor %} <i class="fas fa-clock"></i> {{ page.date | date: "%Y-%m-%d" }}
+      {% endfor %} {{ page.date | date: "%Y-%m-%d" }} <i class="fas fa-clock"></i> <i class="fas fa-book-reader"></i> {{ content | reading_time_as_i }}
     </div>
     <div class="section-divider"></div>
       <!-- Display Disqus Comments Section -->
