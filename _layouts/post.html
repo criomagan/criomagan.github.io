@@ -36,10 +36,10 @@ layout: default
         </span></p>
       </div>
       <div class="col-md-5">
-        <p><i class="fa fa-tag"></i> {% for category in page.categories %}
+        <i class="fa fa-tag"></i> {% for category in page.categories %}
           <a class="post-category-link" href="{{ site.baseurl }}/roinn-seorsa/{{ category }}">
             #{{ category }}
-          </a></p>
+          </a>
         {% endfor %}
       </div>
     </div>
