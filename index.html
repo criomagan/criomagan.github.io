@@ -24,6 +24,10 @@ image: /images/banner.jpg
             {{ post.excerpt }}
 
             <p><a href="{{ site.baseurl }}{{ post.url }}">Leugh an-còrr</a></p>
+            <p class="reading-time" title="Estimated read time">
+            {% assign words = include.content | strip_html | number_of_words %}
+            {{ words | divided_by: 180 | plus: 1 }} mion.
+            </p>
 
           </div>
         </div>
