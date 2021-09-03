@@ -13,7 +13,6 @@ image: /images/banner.jpg
           </div>
           <div class="col-md-9">
             <h5 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
-            {{ post.excerpt }}
           </div>
         </div>
         <div class="row">
@@ -28,6 +27,11 @@ image: /images/banner.jpg
         </div>
           <div class="col-md-3 offset-md-3">
             <p><i class="fas fa-user"></i> {{ post.author }}</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-9 offset-md-3">
+            {{ post.excerpt }}
           </div>
         </div>
         <div class="section-divider"></div>
