@@ -37,13 +37,6 @@ image: /images/banner.jpg
             {{ words | divided_by: 180 | plus: 1 }} mion.
             </span></p>
           </div>
-          <div class="col-md-5">
-            <p style="display: inline-block"><i class="fa fa-tag"></i> {% for category in page.categories %}
-              <a class="post-category-link" href="{{ site.baseurl }}/roinn-seorsa/{{ category }}">
-                #{{ category }}
-              </a></p>
-            {% endfor %}
-          </div>
         </div>
         <div class="section-divider"></div>
     {% endfor %}
