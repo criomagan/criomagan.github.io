@@ -30,7 +30,7 @@ image: /images/banner.jpg
                 <p style="display: inline-block"><i class="fa fa-tag"></i> {% for category in post.categories %}
                   <a class="post-category-link" href="{{ site.baseurl }}/roinn-seorsa/{{ category }}">
                     #{{ category }}
-                  </a>
+                  </a>{% endfor %}
                 </p>
               </div>
             </div>
