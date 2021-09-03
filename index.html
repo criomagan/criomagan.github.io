@@ -27,7 +27,7 @@ image: /images/banner.jpg
                 <p><i class="fas fa-user"></i> {{ post.author }}</p>
               </div>
               <div class="col-md-4">
-                <p style="display: inline-block"><i class="fa fa-tag"></i> {% for category in page.categories %}
+                <p style="display: inline-block"><i class="fa fa-tag"></i> {% for category in post.categories %}
                   <a class="post-category-link" href="{{ site.baseurl }}/roinn-seorsa/{{ category }}">
                     #{{ category }}
                   </a>
