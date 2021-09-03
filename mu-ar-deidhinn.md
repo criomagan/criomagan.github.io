@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mar Deidhinn
+title: Mu ar deidhinn
 permalink: /mu-ar-deidhinn/
 ---
 
