@@ -1,9 +1,0 @@
-{
-  "name": "Criomagan",
-  "short_name": "Criomagan",
-  "theme_color": "#56c1bb",
-  "background_color": "#ffffff",
-  "display": "minimal-ui",
-  "scope": "/",
-  "start_url": "/"
-}
