@@ -14,6 +14,11 @@ image: /images/banner.jpg
           <div class="col-md-9">
             <h5 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
             <div class="row">
+              <div class="col-md-12">
+                {{ post.excerpt }}
+              </div>
+            </div>
+            <div class="row">
               <div class="col-md-3">
                 <p><i class="fas fa-clock"></i> {{ post.date | date: "%Y-%m-%d" }}</p>
               </div>
@@ -32,11 +37,6 @@ image: /images/banner.jpg
                     #{{ category }}
                   </a>{% endfor %}
                 </p>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-md-12">
-                {{ post.excerpt }}
               </div>
             </div>
           </div>
