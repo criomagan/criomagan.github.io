@@ -22,12 +22,27 @@ image: /images/banner.jpg
             {% endif %}
             <!-- Insert the post excerpt here -->
             {{ post.excerpt }}
-            <p class="reading-time" title="Estimated read time">
-              <a href="{{ site.baseurl }}{{ post.url }}">Leugh an-còrr</a>
-              {% assign words = include.content | strip_html | number_of_words %}
-              ({{ words | divided_by: 180 | plus: 1 }} mion.)
-            </p>
-
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-3">
+            <p><i class="fas fa-user"></i> {{ page.author }}</p>
+          </div>
+          <div class="col-md-2">
+            <p><i class="fas fa-clock"></i> {{ page.date | date: "%Y-%m-%d" }}</p>
+          </div>
+          <div class="col-md-2">
+            <p><i class="fas fa-book-reader"></i> <span class="reading-time" title="Estimated read time">
+            {% assign words = include.content | strip_html | number_of_words %}
+            {{ words | divided_by: 180 | plus: 1 }} mion.
+            </span></p>
+          </div>
+          <div class="col-md-5">
+            <p style="display: inline-block"><i class="fa fa-tag"></i> {% for category in page.categories %}
+              <a class="post-category-link" href="{{ site.baseurl }}/roinn-seorsa/{{ category }}">
+                #{{ category }}
+              </a></p>
+            {% endfor %}
           </div>
         </div>
         <div class="section-divider"></div>
