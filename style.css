@@ -111,7 +111,7 @@ a {
 }
 
 /* Images */
-.brand-image, .index-image, .post-image {
+.index-image, .post-image {
   margin: 0 auto;
   display: block;
   max-width: 100%;
