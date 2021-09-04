@@ -14,6 +14,8 @@ image-licence:
 
 author: Crìstean MacMhìcheil
 
+authorbio: {% include bio.html %}
+
 comments: true
 
 categories:
