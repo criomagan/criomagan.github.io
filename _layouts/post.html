@@ -28,7 +28,7 @@ layout: default
 
     <div class="section-divider"></div>
 
-    <div class="row">
+    <div class="row metadata">
       <div class="col-md-2">
         <p><i class="fas fa-clock"></i> {{ page.date | date: "%Y-%m-%d" }}</p>
       </div>
@@ -43,7 +43,7 @@ layout: default
       </div>
     </div>
 
-    <div class="row">
+    <div class="row author">
       <div class="col-md-2">
         <img src="{{ site.baseurl }}/images/avatar.jpg" style="display: block; margin: auto; border: solid 3px white; border-radius: 50%; height: 100px" />
       </div>
@@ -52,11 +52,11 @@ layout: default
       </div>
     </div>
 
-    <div class="comments">
+    <div class="row comments">
       <p>Faodar beachdan mun alt seo a chur thugam air <a {% if page.instagram %} href="{{ page.instagram }}" {% else %} href="https://www.instagram.com/criomagan"{% endif %}>Instagram</a> no <a {% if page.twitter %} href="{{ page.twitter }}" {% else %} href="https://www.twitter.com/criomagan_"{% endif %}>Twitter</a>.</p>
     </div>
 
-    <div class="PageNavigation">
+    <div class="row PageNavigation">
       {% for post in site.posts %}
               {% if post.url == page.url %}
                   {% assign post_index0 = forloop.index0 %}
@@ -79,7 +79,7 @@ layout: default
           {% endif %}
     </div>
 
-    <div class="related">
+    <div class="row related">
       {% unless page.categories == null %}
         {% capture pageCategory %}{{ page.categories[0] }}{% endcapture %}
         {% unless site.categories[pageCategory].size == 1 %}
