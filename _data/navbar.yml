@@ -1,19 +1,7 @@
-- title: <i class="fas fa-info"></i>
+- title: Dachaigh
+  url: /
+  description: 
+
+- title: Mu ar deidhinn
   url: /mu-ar-deidhinn
   description: Mu ar deidhinn
-
-- title: <i class="fas fa-envelope"></i>
-  url: /cuir-fios
-  description: Cuir fios thugainn
-
-- title: <i class="fa fa-feed"></i>
-  url: /feed
-  description: Inbhir RSS
-
-- title: <i class="fab fa-instagram"></i>
-  url: https://www.instagram.com/criomagan
-  description: Instagram
-
-- title: <i class="fab fa-twitter"></i>
-  url: https://www.twitter.com/criomagan_
-  description: Twitter
