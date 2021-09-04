@@ -28,7 +28,7 @@ layout: default
 
     <div class="section-divider"></div>
 
-    <div class="row metadata">
+    <div class="row">
       <div class="col-md-2">
         <p><i class="fas fa-clock"></i> {{ page.date | date: "%Y-%m-%d" }}</p>
       </div>
@@ -43,7 +43,7 @@ layout: default
       </div>
     </div>
 
-    <div class="author">
+    <div class="row">
       <div class="col-md-2">
         <img src="{{ site.baseurl }}/images/avatar.jpg" style="display: block; margin: auto; border: solid 3px white; border-radius: 50%; height: 100px" />
       </div>
@@ -54,7 +54,7 @@ layout: default
 
     <div class="section-divider"></div>
 
-    <div class="comments">
+    <div class="row">
       <p>Faodar beachdan mun alt seo a chur thugam air <a {% if page.instagram %} href="{{ page.instagram }}" {% else %} href="https://www.instagram.com/criomagan"{% endif %}>Instagram</a> no <a {% if page.twitter %} href="{{ page.twitter }}" {% else %} href="https://www.twitter.com/criomagan_"{% endif %}>Twitter</a>.</p>
     </div>
 
@@ -85,7 +85,7 @@ layout: default
 
     <div class="section-divider"></div>
 
-    <div class="row related">
+    <div class="related">
       {% unless page.categories == null %}
         {% capture pageCategory %}{{ page.categories[0] }}{% endcapture %}
         {% unless site.categories[pageCategory].size == 1 %}
