@@ -38,9 +38,8 @@ layout: default
       </div>
       <div class="col-md-5">
         <p style="display: inline-block"><i class="fa fa-tag"></i> {% for category in page.categories %} <a class="post-category-link" href="{{ site.baseurl }}/roinn-seorsa/{{ category }}">#{{ category }}</a> {% endfor %} </p>
-        <p>Faodar beachdan mun alt seo a chur thugam air <a {% if page.instagram %} href="{{ page.instagram }}" {% else %} href="https://www.instagram.com/criomagan"{% endif %}>Instagram</a> no <a {% if page.twitter %} href="{{ page.twitter }}" {% else %} href="https://www.twitter.com/criomagan_"{% endif %}>Twitter</a>.</p>
       </div>
-
+      <p>Faodar beachdan mun alt seo a chur thugam air <a {% if page.instagram %} href="{{ page.instagram }}" {% else %} href="https://www.instagram.com/criomagan"{% endif %}>Instagram</a> no <a {% if page.twitter %} href="{{ page.twitter }}" {% else %} href="https://www.twitter.com/criomagan_"{% endif %}>Twitter</a>.</p>
     </div>
     <div class="PageNavigation">
       {% for post in site.posts %}
