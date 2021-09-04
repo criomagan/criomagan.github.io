@@ -3,11 +3,13 @@ layout: default
 ---
 <div class="container">
   <div class="post">
+
     <div class="row">
       <div class="col-md-12">
         <h3 class="post-title">{{ page.title }}</h3>
       </div>
     </div>
+
     <div class="row">
       <div class="col-md-3">
         {% if page.image-caption %}
@@ -23,7 +25,9 @@ layout: default
         {{ content }}
       </div>
     </div>
+
     <div class="section-divider"></div>
+
     <div class="row">
       <div class="col-md-2">
         <p><i class="fas fa-clock"></i> {{ page.date | date: "%Y-%m-%d" }}</p>
@@ -34,14 +38,21 @@ layout: default
         {{ words | divided_by: 180 | plus: 1 }} mion.
         </span></p>
       </div>
-      <div class="col-md-3">
-        <p><i class="fas fa-user"></i> {{ page.author }}</p>
-      </div>
-      <div class="col-md-5">
+      <div class="col-md-8">
         <p style="display: inline-block"><i class="fa fa-tag"></i> {% for category in page.categories %} <a class="post-category-link" href="{{ site.baseurl }}/roinn-seorsa/{{ category }}">#{{ category }}</a> {% endfor %} </p>
       </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-3">
+        <p><i class="fas fa-user"></i> {{ page.authorbio }}</p>
+      </div>
+    </div>
+
+    <div class="comments">
       <p>Faodar beachdan mun alt seo a chur thugam air <a {% if page.instagram %} href="{{ page.instagram }}" {% else %} href="https://www.instagram.com/criomagan"{% endif %}>Instagram</a> no <a {% if page.twitter %} href="{{ page.twitter }}" {% else %} href="https://www.twitter.com/criomagan_"{% endif %}>Twitter</a>.</p>
     </div>
+
     <div class="PageNavigation">
       {% for post in site.posts %}
               {% if post.url == page.url %}
@@ -64,6 +75,7 @@ layout: default
               <a class="next" href="{{ next_post }}">An ath phost <i class="fas fa-arrow-circle-right"></i></a>
           {% endif %}
     </div>
+
     <div class="related">
       {% unless page.categories == null %}
         {% capture pageCategory %}{{ page.categories[0] }}{% endcapture %}
@@ -85,5 +97,6 @@ layout: default
         {% endunless %}
       {% endunless %}
     </div>
+
   </div>
 </div>
