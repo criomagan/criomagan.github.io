@@ -2,6 +2,24 @@
 
 ---
 
+@media (max-width: 767px){
+  .mobile {
+    display: block;
+  }
+  .desktop {
+    display: none;
+  }
+}
+
+@media (min-width: 768px){
+  .mobile {
+    display: none;
+  }
+  .desktop {
+    display: block;
+  }
+}
+
 html {
   font-size: 100%;
 }
@@ -65,10 +83,6 @@ a {
   font-size: .875rem;
 }
 
-.dropdown-menu{
-	background-color: {{ site.featured-color }};
-}
-
 /* Content Section */
 
 .post-title{
@@ -113,39 +127,9 @@ a {
   padding-bottom: 25px;
 }
 
-/* Events Category */
-.event-list-month{
-  margin: 25px 0px;
-}
-
-.event-icons{
-  margin-right: 5px;
-}
-
 /* Related Posts */
 .related{
   margin-top: 25px;
-}
-
-/* Jump to Top Button */
-#myBtn {
-  display: none;
-  position: fixed;
-  bottom: 50px;
-  right: 30px;
-  z-index: 99;
-  font-size: 18px;
-  border: 1px solid white;
-  outline: none;
-  background-color: {{ site.featured-color }};
-  color: white;
-  cursor: pointer;
-  padding: 15px;
-  border-radius: 4px;
-}
-
-#myBtn:hover {
-  background-color: #555;
 }
 
 /* Index Pagination */
@@ -190,7 +174,7 @@ a {
 /* Footer Section */
 .footer{
     background-color:  {{ site.featured-color }};
-    color: #fff;
+    color: #ffffff;
     text-align: center;
     width: 100%;
     margin-top: 100px;
@@ -203,22 +187,4 @@ a {
 
 .footer a:hover {
     color: #f3f3f3;
-}
-
-@media (max-width: 767px){
-  .mobile {
-    display: block;
-  }
-  .desktop {
-    display: none;
-  }
-}
-
-@media (min-width: 768px){
-  .mobile {
-    display: none;
-  }
-  .desktop {
-    display: block;
-  }
 }
