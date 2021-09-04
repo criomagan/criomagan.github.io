@@ -1,31 +1,29 @@
 ---
 layout: default
 title: Dachaigh
-image: /images/banner.jpg
 ---
 
 <div class="container">
   <h3>Postaichean gu lèir</h3>
     {% for post in paginator.posts %}
-    <div class="row">
-      <div class="col-md-3">
-        <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="index-image"></a>
+      <div class="row">
+        <div class="col-md-3">
+          <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="index-image"></a>
+        </div>
+        <div class="col-md-9">
+          <h5 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
+          <p>
+            <i class="fas fa-clock"></i> {{ post.date | date: "%Y-%m-%d" }}
+            <i class="fas fa-book-reader" style="margin-left: 15px"></i> <span class="reading-time" title="Estimated read time">
+              {% assign words = include.content | strip_html | number_of_words %}
+              {{ words | divided_by: 180 | plus: 1 }} mion.
+            </span>
+          </p>
+          {{ post.excerpt }}
+          <p><a href="{{ site.baseurl }}{{ post.url }}">Leugh an-còrr</a></p>
+        </div>
       </div>
-      <div class="col-md-9">
-        <h5 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
-        <p>
-          <i class="fas fa-clock"></i> {{ post.date | date: "%Y-%m-%d" }}
-          <i class="fas fa-book-reader" style="margin-left: 15px"></i> <span class="reading-time" title="Estimated read time">
-            {% assign words = include.content | strip_html | number_of_words %}
-            {{ words | divided_by: 180 | plus: 1 }} mion.
-          </span>
-        </p>
-        {{ post.excerpt }}
-        <p><a href="{{ site.baseurl }}{{ post.url }}">Leugh an-còrr</a></p>
-      </div>
-    </div>
-    <div class="section-divider"></div>
+      <div class="section-divider"></div>
     {% endfor %}
-  <!-- Pagination -->
   {% include pagination.html %}
 </div>
