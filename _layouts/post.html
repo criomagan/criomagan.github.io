@@ -9,6 +9,21 @@ layout: default
       </div>
     </div>
     <div class="row">
+      <div class="col-md-3">
+        {% if page.image-caption %}
+        <figure>
+          <img src="{{ page.image }}" class="post-image">
+          <figcaption class="text-muted" style="text-align: right; margin-top: -25px"><small><a href="{{ page.image-licence }}">{{ page.image-caption }}</a></small></figcaption>
+        </figure>
+        {% else %}
+          <img src="{{ page.image }}" class="post-image">
+        {% endif %}
+      </div>
+      <div class="col-md-9">
+        {{ content }}
+      </div>
+    </div>
+    <div class="row">
       <div class="col-md-2">
         <p><i class="fas fa-clock"></i> {{ page.date | date: "%Y-%m-%d" }}</p>
       </div>
@@ -27,21 +42,6 @@ layout: default
             #{{ category }}
           </a></p>
         {% endfor %}
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-3">
-        {% if page.image-caption %}
-        <figure>
-          <img src="{{ page.image }}" class="post-image">
-          <figcaption class="text-muted" style="text-align: right; margin-top: -25px"><small><a href="{{ page.image-licence }}">{{ page.image-caption }}</a></small></figcaption>
-        </figure>
-        {% else %}
-          <img src="{{ page.image }}" class="post-image">
-        {% endif %}
-      </div>
-      <div class="col-md-9">
-        {{ content }}
       </div>
     </div>
     <div class="section-divider"></div>
