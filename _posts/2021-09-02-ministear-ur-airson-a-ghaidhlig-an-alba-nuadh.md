@@ -23,9 +23,9 @@ categories:
 tags:
     -
 
-instagram:
+instagram: https://www.instagram.com/p/CTc2u3HLgs-/
 
-twitter:
+twitter: https://twitter.com/criomagan_/status/1434592023365959704
 
 ---
 
