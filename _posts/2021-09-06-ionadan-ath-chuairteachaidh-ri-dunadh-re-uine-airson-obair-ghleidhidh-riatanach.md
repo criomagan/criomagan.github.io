@@ -2,7 +2,7 @@
 
 layout: post
 
-date:
+date: 2021-09-06
 
 title: Ionadan ath-chuairteachaidh ri dùnadh rè ùine airson obair-ghlèidhidh riatanach
 
