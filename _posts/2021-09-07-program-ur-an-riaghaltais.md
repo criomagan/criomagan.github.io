@@ -34,16 +34,16 @@ Tha am Prìomh Mhinistear, Nicola Sturgeon, an-diugh air prìomh amasan an Riagh
 
 ’S iad:
 
-• ath-leasachaidhean air seirbheisean cùraim a thoirt gu buil agus co-dhiù £800m a bharrachd a chosg air seirbheisean cùraim thar beatha na Pàrlamaid;
+* ath-leasachaidhean air seirbheisean cùraim a thoirt gu buil agus co-dhiù £800m a bharrachd a chosg air seirbheisean cùraim thar beatha na Pàrlamaid;
 
-• cùraim-chloinne a thabhann ro sgoile, as dèidh na sgoile agus rè na saor-làithean;
+* cùraim-chloinne a thabhann ro sgoile, as dèidh na sgoile agus rè na saor-làithean;
 
-• maoineachadh a bharrachd do sheirbheisean slàinte agus seirbheisean slàinte-inntinn duine ri duine;
+* maoineachadh a bharrachd do sheirbheisean slàinte agus seirbheisean slàinte-inntinn duine ri duine;
 
-• ath-leasachadh a dhèanamh air laghan aithneachadh gnè;
+* ath-leasachadh a dhèanamh air laghan aithneachadh gnè;
 
-• mathanas a thoirt do mhèinneadairean a chaidh a dhìteadh anns na 1980an airson dol air stailc;
+* mathanas a thoirt do mhèinneadairean a chaidh a dhìteadh anns na 1980an airson dol air stailc;
 
-• riaghailtean cleasan-teine a’ neartachadh;
+* riaghailtean cleasan-teine a’ neartachadh;
 
-• reifreann a chumail air neo-eisimeileachd na h-Alba ro deireadh 2023.
+* reifreann a chumail air neo-eisimeileachd na h-Alba ro deireadh 2023.
