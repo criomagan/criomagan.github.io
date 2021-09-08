@@ -23,9 +23,9 @@ categories:
 tags:
     -
 
-instagram:
+instagram: https://www.instagram.com/p/CTkuuPDrPYU/
 
-twitter:
+twitter: https://twitter.com/GeidhUK/status/1435699428401324037
 
 ---
 
@@ -38,3 +38,5 @@ Is e ceann-uidhe a’ bhuidhinn cùisean a tha cudromach don choimhearsnachd LGD
 Is i Roddick a’ chiad BPA LGDT+ airson na Gàidhealtachd ’s nan Eilean.
 
 Bidh i ag obair còmhla ris a’ BhPA Tòraidheach Jamie Greene san dreuchd.
+
+**Nochd [an t-araigil seo air Geidh.uk](https://geidh.uk/2021/09/08/emma-roddick-ga-suidheachadh-mar-cho-neach-gairm-buidheann-lgdt-taigh-an-roid/) bho thùs.**
