@@ -39,4 +39,4 @@ Is i Roddick a’ chiad BPA LGDT+ airson na Gàidhealtachd ’s nan Eilean.
 
 Bidh i ag obair còmhla ris a’ BhPA Tòraidheach Jamie Greene san dreuchd.
 
-**Nochd [an t-artaigil seo air Geidh.uk](https://geidh.uk/2021/09/08/emma-roddick-ga-suidheachadh-mar-cho-neach-gairm-buidheann-lgdt-taigh-an-roid/) bho thùs.**
+**[^1] Nochd [an t-artaigil seo air Geidh.uk](https://geidh.uk/2021/09/08/emma-roddick-ga-suidheachadh-mar-cho-neach-gairm-buidheann-lgdt-taigh-an-roid/) bho thùs.**
