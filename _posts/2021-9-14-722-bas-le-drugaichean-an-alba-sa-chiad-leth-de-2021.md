@@ -2,7 +2,7 @@
 
 layout: post
 
-date: 2021-09-14 - 20:30
+date: 2021-09-14 20:30
 
 title: 722 bàs le drugaichean an Alba sa chiad leth de 2021
 
@@ -24,9 +24,9 @@ categories:
 tags:
     -
 
-instagram:
+instagram: https://www.instagram.com/p/CT0Hhp9rVGo/
 
-twitter:
+twitter: https://twitter.com/criomagan_/status/1437866477617655814
 
 ---
 
