@@ -29,7 +29,7 @@ twitter: https://twitter.com/geidhuk/status/1442095014675316743
 
 ---
 
-‘S e Alba a’ chiad dhùthaich san t-saoghal gus curraicealam a ghabhas a-steach cùisean leasbach, gèidh, dà-sheòrsach is tar-ghnèitheach a thoirt a-steach.
+‘S e Alba a’ chiad dùthaich san t-saoghal gus curraicealam a ghabhas a-steach cùisean leasbach, gèidh, dà-sheòrsach is tar-ghnèitheach a thoirt a-steach.
 
 <!--more-->
 
