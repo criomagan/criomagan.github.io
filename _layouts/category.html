@@ -9,23 +9,30 @@ layout: page
   <p>Chan eil post sam bith anns an roinn-seòrsa seo.</p>
 {% endunless %}
 
-{% for post in site.categories[page.category] %}
-<div class="row">
-  <div class="col-md-3">
-    <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="index-image"></a>
+  {% for post in site.categories[page.category] %}   
+  <div class="row" style="border-bottom: 1px solid whitesmoke; margin-bottom: 15px;">
+    <div class="col-md-3">
+      <p class="p-0 my-1 mx-0" style="text-align: right"><span class="post-meta"><small>
+        {% assign m = post.date | date: "%-m" %}
+        {{ post.date | date: "%d" }}
+        {% case m %}
+          {% when '1' %}Am Faoilleach
+          {% when '2' %}An Gearran
+          {% when '3' %}Am Màrt
+          {% when '4' %}An Giblean
+          {% when '5' %}An Cèitean
+          {% when '6' %}An t-Ògmhios
+          {% when '7' %}An t-Iuchar
+          {% when '8' %}An Lùnastal
+          {% when '9' %}An t-Sultain
+          {% when '10' %}An Dàmhair
+          {% when '11' %}An t-Samhain
+          {% when '12' %}An Dùbhlachd
+        {% endcase %}
+        {{ post.date | date: "%Y" }}</small></span></p>
+    </div>
+    <div class="col-md-9">
+      <p><strong><a href="{{site.baseurk}}{{ post.url }}">{{ post.title }}</a></strong></p>
+    </div>
   </div>
-  <div class="col-md-9">
-    <h5 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
-    <p>
-      <i class="fas fa-clock"></i> {{ post.date | date: "%Y-%m-%d" }}
-      <i class="fas fa-book-reader" style="margin-left: 15px"></i> <span class="reading-time" title="Estimated read time">
-        {% assign words = include.content | strip_html | number_of_words %}
-        {{ words | divided_by: 180 | plus: 1 }} mion.
-      </span>
-    </p>
-    {{ post.excerpt }}
-    <p><a href="{{ site.baseurl }}{{ post.url }}">Leugh an-còrr</a></p>
-  </div>
-</div>
-<div class="section-divider"></div>
-{% endfor %}
+  {% endfor %}

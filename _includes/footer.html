@@ -1,28 +1,30 @@
-<div class="footer">
-  <span class="nav-link">
-    <h3>
-      <a style="padding-right: 10px" href="https://www.instagram.com/criomagan">
-        <i class="fab fa-instagram"></i>
-      </a>
-      <a style="padding-right: 10px" href="https://www.twitter.com/criomagan_">
-        <i class="fab fa-twitter"></i>
-      </a>
-      <a style="padding-right: 10px" href="{{ site.baseurl }}/feed">
-        <i class="fa fa-feed"></i>
-      </a>
-      <a style="padding-right: 10px" href="{{ site.baseurl }}/cuir-fios/">
-        <i class="fas fa-envelope"></i>
-      </a>
-    </h3>
-    <i class="fas fa-code"></i> le <i class="fas fa-heart"></i> le <a href="https://macmhicheil.uk/">Crìstean MacMhìcheil</a><br/>
-    <i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i>
-    <br/>
-    <p>
-      <form action="https://www.paypal.com/donate" method="post" target="_top">
-        <input type="hidden" name="hosted_button_id" value="JTFV7JRS372FQ" />
-        <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-        <img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1" />
-      </form>
-    </p>
-  </span>
-</div>
+<footer class="mt-4 mt-md-5">
+  <div class="container">
+    <div class="row p20">
+      {% if site.copyright.name %}
+      <div class="col-md-4 text-center mt25">
+        All rights reserved by
+        <a target="_blank" href="{{site.copyright.link}}"
+          >{{site.copyright.name}}</a
+        >
+      </div>
+      {% endif %}
+
+      <div class="col-md-4 text-center mt25">
+        {% if site.built-by %}
+        Dèanta le <i class="fas fa-heart"></i> le <a target="_blank" href="https://macmhicheil.scot/"> Crìstean MacMhìcheil</a>
+        {% endif %}
+      </div>
+      <div class="col-md-4 text-center mt25">
+        <a target="_blank" href="{{ site.baseurl }}/feed"><li class="social rss"><i class="fa-solid fa-square-rss"></i></li></a>
+        {% if site.instagram %}
+        <a target="_blank" href="{{site.instagram}}"><li class="social instagram"><i class="fa-brands fa-instagram"></i></li></a>
+        {% endif %} {% if site.twitter %}
+        <a target="_blank" href="{{site.twitter}}"><li class="social twitter"><i class="fa-brands fa-twitter"></i></li></a>
+        {% endif %} {% if site.email %}
+        <a href="{{ site.baseurl }}/cuir-fios"><li class="social email"><i class="fa-solid fa-envelope"></i></li></a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</footer>
