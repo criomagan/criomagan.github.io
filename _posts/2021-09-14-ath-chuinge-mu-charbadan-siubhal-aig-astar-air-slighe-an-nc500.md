@@ -6,7 +6,7 @@ date: 2021-09-14 13:30
 
 title: Ath-chuinge mu charbadan siubhal aig astar air slighe an NC500
 
-image: /images/2021-09-14-ath-chuinge-mu-charbadan-siubhal-aig-astar-air-slighe-an-nc500.jpg
+image: /images/posts/2021-09-14-ath-chuinge-mu-charbadan-siubhal-aig-astar-air-slighe-an-nc500.jpg
 
 image-caption:
 

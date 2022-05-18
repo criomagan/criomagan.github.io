@@ -6,7 +6,7 @@ date: 2021-11-25
 
 title: Rabhadh orainds airson Stoirm Arwen
 
-image: /images/2021-11-25-rabhadh-orainds-airson-stoirm-arwen.jpg
+image: /images/posts/2021-11-25-rabhadh-orainds-airson-stoirm-arwen.jpg
 
 image-caption:
 

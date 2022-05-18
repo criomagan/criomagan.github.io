@@ -6,7 +6,7 @@ date: 2021-09-07 21:45
 
 title: Prògram ùr an Riaghaltais
 
-image: /images/2021-09-07-program-ur-an-riaghaltais.jpg
+image: /images/posts/2021-09-07-program-ur-an-riaghaltais.jpg
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2021-11-25
 
 title: Dàil air cuid de dh’obair-lannsa sna h-Eileanan
 
-image: /images/2021-11-25-dail-air-cuid-de-dhobair-lannsa-sna-h-eileanan.jpg
+image: /images/posts/2021-11-25-dail-air-cuid-de-dhobair-lannsa-sna-h-eileanan.jpg
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2021-11-27
 
 title: Srèana ùr de Chovid-19 san Rìoghachd Aonaichte
 
-image: /images/2021-11-27-sreana-ur-de-chovid-19-san-rioghachd-aonaichte.jpg
+image: /images/posts/2021-11-27-sreana-ur-de-chovid-19-san-rioghachd-aonaichte.jpg
 
 image-caption:
 

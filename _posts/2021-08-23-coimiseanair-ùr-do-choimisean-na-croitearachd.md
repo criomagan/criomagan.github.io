@@ -6,7 +6,7 @@ date: 2021-08-23 16:18
 
 title: Coimiseanair ùr do Choimisean na Croitearachd
 
-image: /images/2021-08-23-coimiseanair-ùr-do-choimisean-na-croitearachd.jpg
+image: /images/posts/2021-08-23-coimiseanair-ùr-do-choimisean-na-croitearachd.jpg
 
 image-caption:
 

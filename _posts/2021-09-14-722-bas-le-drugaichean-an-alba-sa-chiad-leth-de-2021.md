@@ -6,7 +6,7 @@ date: 2021-09-14 20:30
 
 title: 722 bàs le drugaichean an Alba sa chiad leth de 2021
 
-image: /images/2021-9-14-722-bas-le-drugaichean-an-alba-sa-chiad-leth-de-2021.jpg
+image: /images/posts/2021-9-14-722-bas-le-drugaichean-an-alba-sa-chiad-leth-de-2021.jpg
 
 image-caption:
 

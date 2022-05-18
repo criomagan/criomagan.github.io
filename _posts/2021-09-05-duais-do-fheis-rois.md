@@ -6,7 +6,7 @@ date: 2021-09-05
 
 title: Duais do Fhèis Rois
 
-image: /images/2021-09-05-duais-do-fheis-rois.jpg
+image: /images/posts/2021-09-05-duais-do-fheis-rois.jpg
 
 image-caption:
 

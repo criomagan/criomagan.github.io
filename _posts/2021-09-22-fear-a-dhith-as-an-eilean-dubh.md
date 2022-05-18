@@ -6,7 +6,7 @@ date: 2021-09-22 13:50
 
 title: Fear a dhìth às an Eilean Dubh
 
-image: /images/2021-09-22-fear-a-dhith-as-an-eilean-dubh.jpg
+image: /images/posts/2021-09-22-fear-a-dhith-as-an-eilean-dubh.jpg
 
 image-caption:
 

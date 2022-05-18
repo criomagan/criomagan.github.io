@@ -6,7 +6,7 @@ date: 2021-09-06 13:00:00
 
 title: Dùil gun ainmich Boris Johnson caibineat ùr
 
-image: /images/2021-09-06-duil-gun-ainmich-boris-johnson-caibineat-ur.jpg
+image: /images/posts/2021-09-06-duil-gun-ainmich-boris-johnson-caibineat-ur.jpg
 
 image-caption:
 

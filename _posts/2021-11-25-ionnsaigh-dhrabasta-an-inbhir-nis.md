@@ -6,7 +6,7 @@ date: 2021-11-25
 
 title: Ionnsaigh dhrabasta an Inbhir Nis
 
-image: /images/2021-11-25-ionnsaigh-dhrabasta-an-inbhir-nis.jpg
+image: /images/posts/2021-11-25-ionnsaigh-dhrabasta-an-inbhir-nis.jpg
 
 image-caption:
 

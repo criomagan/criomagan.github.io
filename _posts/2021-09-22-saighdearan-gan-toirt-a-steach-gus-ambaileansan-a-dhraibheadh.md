@@ -6,7 +6,7 @@ date: 2021-09-22 08:20
 
 title: Saighdearan gan toirt a-steach gus ambaileansan a dhràibheadh
 
-image: /images/2021-09-22-saighdearan-gan-toirt-a-steach-gus-ambaileansan-a-dhraibheadh.jpg
+image: /images/posts/2021-09-22-saighdearan-gan-toirt-a-steach-gus-ambaileansan-a-dhraibheadh.jpg
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2021-09-02
 
 title: Ministear ùr airson a' Ghàidhlig an Alba Nuadh
 
-image: /images/2021-09-02-ministear-ur-airson-a-ghaidhlig-an-alba-nuadh.jpg
+image: /images/posts/2021-09-02-ministear-ur-airson-a-ghaidhlig-an-alba-nuadh.jpg
 
 image-caption:
 

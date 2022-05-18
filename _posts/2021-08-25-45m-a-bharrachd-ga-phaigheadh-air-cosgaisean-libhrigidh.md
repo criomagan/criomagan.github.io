@@ -6,7 +6,7 @@ date: 2021-08-25 15:50
 
 title: £45m a bharrachd ga phàigheadh air cosgaisean lìbhrigidh
 
-image: /images/2021-08-25-45m-a-bharrachd-ga-phaigheadh-air-cosgaisean-libhrigidh.jpg
+image: /images/posts/2021-08-25-45m-a-bharrachd-ga-phaigheadh-air-cosgaisean-libhrigidh.jpg
 
 image-caption:
 

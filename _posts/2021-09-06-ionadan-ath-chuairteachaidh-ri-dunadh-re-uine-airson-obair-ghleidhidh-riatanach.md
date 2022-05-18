@@ -6,7 +6,7 @@ date: 2021-09-06
 
 title: Ionadan ath-chuairteachaidh ri dùnadh rè ùine airson obair-ghlèidhidh riatanach
 
-image: /images/2021-09-06-ionadan-ath-chuairteachaidh-ri-dunadh-re-uine-airson-obair-ghleidhidh-riatanach.jpg
+image: /images/posts/2021-09-06-ionadan-ath-chuairteachaidh-ri-dunadh-re-uine-airson-obair-ghleidhidh-riatanach.jpg
 
 image-caption:
 

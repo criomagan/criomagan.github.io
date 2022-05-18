@@ -6,7 +6,7 @@ date: 2021-11-25
 
 title: Càin is casg dràibhidh airson dràibhear a shiubhal aig 116msu air an A9
 
-image: /images/2021-11-25-cain-is-casg-draibhidh-airson-draibhear-a-shiubhal-aig-116msu-air-an-a9.jpg
+image: /images/posts/2021-11-25-cain-is-casg-draibhidh-airson-draibhear-a-shiubhal-aig-116msu-air-an-a9.jpg
 
 image-caption:
 

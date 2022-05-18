@@ -4,7 +4,7 @@ layout: post
 
 date: 2021-11-25
 
-image: /images/2021-11-25-fireannach-fo-chasaid-oidhirp-air-murt-an-inbhir-nis.jpg
+image: /images/posts/2021-11-25-fireannach-fo-chasaid-oidhirp-air-murt-an-inbhir-nis.jpg
 
 image-caption:
 

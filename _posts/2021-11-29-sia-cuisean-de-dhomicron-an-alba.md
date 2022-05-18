@@ -6,7 +6,7 @@ date: 2021-11-29
 
 title: Sia cùisean de dh’Omicron an Alba
 
-image: /images/2021-11-29-sia-cuisean-de-dhomicron-an-alba.jpg
+image: /images/posts/2021-11-29-sia-cuisean-de-dhomicron-an-alba.jpg
 
 image-caption:
 

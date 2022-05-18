@@ -6,7 +6,7 @@ date: 2021-11-24
 
 title: Uilleam MacDhùghaill fiot gu leòr airson dol gu chùirt fo chasaid moirt Renee NicRath agus a balach òg
 
-image: /images/2021-11-24-uilleam-macdhughaill-fiot-gu-leor-airson-dol-gu-chuirt-fo-chasaid-moirt-renee-nicrath-agus-a-balach-og.jpg
+image: /images/posts/2021-11-24-uilleam-macdhughaill-fiot-gu-leor-airson-dol-gu-chuirt-fo-chasaid-moirt-renee-nicrath-agus-a-balach-og.jpg
 
 image-caption:
 

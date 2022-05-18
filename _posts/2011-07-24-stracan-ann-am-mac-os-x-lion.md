@@ -6,7 +6,7 @@ date: 2011-07-24 12:43:24
 
 title: Stràcan ann am Mac OS X 10.7 Lion
 
-image: /images/2011-07-24-stracan-ann-am-mac-os-x-lion.jpeg
+image: /images/posts/2011-07-24-stracan-ann-am-mac-os-x-lion.jpeg
 
 image-caption:
 

@@ -6,7 +6,7 @@ date: 2021-10-04 14:30
 
 title: Fear a dhìth à Ceann a' Ghiùthsaich
 
-image: /images/2021-10-04-fear-a-dhith-a-ceann-a-ghiuthsaich.jpg
+image: /images/posts/2021-10-04-fear-a-dhith-a-ceann-a-ghiuthsaich.jpg
 
 image-caption:
 

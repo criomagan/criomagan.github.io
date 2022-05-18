@@ -6,7 +6,7 @@ date: 2021-09-13 08:00
 
 title: Fireannach le stuthan-spreadhaidh an greim an Inbhir Nis
 
-image: /images/2021-09-13-fireannach-le-stuthan-spreadhaidh-an-greim-an-inbhir-nis.jpg
+image: /images/posts/2021-09-13-fireannach-le-stuthan-spreadhaidh-an-greim-an-inbhir-nis.jpg
 
 image-caption:
 
