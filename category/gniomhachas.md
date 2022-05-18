@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Gnìomhachas
-category: gniomhachas
+category: Gnìomhachas
 permalink: /roinn-seorsa/gniomhachas/
 ---

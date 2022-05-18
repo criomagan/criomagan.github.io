@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Teicneòlas
-category: teicneolas
+category: Teicneòlas
 permalink: /roinn-seorsa/teicneolas/
 ---

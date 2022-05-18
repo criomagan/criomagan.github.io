@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Gàidhlig
-category: gaidhlig
+category: Gàidhlig
 permalink: /roinn-seorsa/gaidhlig/
 ---

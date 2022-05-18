@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Slàinte
-category: slainte
+category: Slàinte
 permalink: /roinn-seorsa/slainte/
 ---

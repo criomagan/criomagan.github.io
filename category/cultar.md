@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Cùltar
-category: cultar
+title: Cultar
+category: Cultar
 permalink: /roinn-seorsa/cultar/
 ---

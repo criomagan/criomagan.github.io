@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Creideamh
-category: creideamh
+category: Creideamh
 permalink: /roinn-seorsa/creideamh/
 ---

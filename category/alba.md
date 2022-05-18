@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Alba
-category: alba
+category: Alba
 permalink: /roinn-seorsa/alba/
 ---

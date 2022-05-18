@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Foghlam
-category: foghlam
+category: Foghlam
 permalink: /roinn-seorsa/foghlam/
 ---
