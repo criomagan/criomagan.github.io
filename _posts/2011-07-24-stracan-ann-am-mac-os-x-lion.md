@@ -17,8 +17,8 @@ author: Crìstean MacMhìcheil
 comments: true
 
 categories:
-    - gaidhlig
-    - teicneolas
+    - Gàidhlig
+    - Teicneòlas
 
 tags:
 
